@@ -6,7 +6,7 @@ import React from 'react';
 class App extends React.Component {
     render() {
         return (
-            <div>Hello, this is Peter Parker.</div>
+            <div>I'm ready to support you my fellow friend.</div>
         );
     }
 }
