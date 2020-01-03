@@ -4,7 +4,7 @@ import React from 'react';
  * Главный компонент.
  */
 class App extends React.Component {
-    rendertrdyuftgyilh() {
+    render() {
         return (
             <div>I'm ready to support you my fellow friend.</div>
         );
